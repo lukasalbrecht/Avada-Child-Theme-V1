@@ -1,0 +1,129 @@
+/*
+Theme Name: Avada Child
+Description: Child theme for Avada theme
+Author: ThemeFusion
+Author URI: https://theme-fusion.com
+Template: Avada
+Version: 1.0.0
+Text Domain:  Avada
+*/
+
+
+/* ======= Eigene Schriften ======= */
+/* ======= 
+
+<link href='https://fonts.googleapis.com/css?family=Roboto:300,700' rel='stylesheet' type='text/css'>
+font-family: 'Roboto', sans-serif;
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,700);
+
+<link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:300,700' rel='stylesheet' type='text/css'>
+font-family: 'Roboto Condensed', sans-serif;
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:300,700);
+
+ ======= */
+
+/* ======= Page Elements ======= */
+#side-header .fusion-main-menu > ul > li > a {
+
+    border-top-color: rgba(132, 132, 132, 0.72) !important;
+    border-bottom-color: rgba(132, 132, 132, 0.72) !important;
+}
+
+.fusion-slider-container {
+    border-left: 1px solid #677079 !important;
+}
+
+.heading.with-bg h2 {
+    color: rgb(17, 17, 17);
+    font-size: 36px;
+    line-height: 43px;
+    background-color: rgba(255, 255, 255, 0.9) !important;
+    box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.3) !important;
+    font-family: 'Roboto' !important;
+    font-weight: 700 !important;
+    text-transform: uppercase;
+}
+
+span.fremd-subtitle {
+    text-transform: none;
+    font-size: 18px;
+    display: block;
+    line-height: 26px;
+    font-weight: 300;
+}
+.tfs-slider .slide-content-container .heading.with-bg h2, .tfs-slider .slide-content-container .caption.with-bg h3 {
+    padding: 12px 25px;
+}
+
+.fremd-title {
+    border-left: 10px solid #677079;
+    padding-left: 10px;
+}
+.fremd-title h3 {
+    font-family: 'Roboto Condensed' !important;
+    font-size: 36px !important;
+    margin-bottom: 16px;
+    padding-top: 7px;
+}
+.service-boxes{
+    background-color: rgba(255, 255, 255, 0.9) !important;
+    box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.3) !important;
+}
+.fusion-copyright-notice {
+    text-align: center;
+}
+li#menu-item-74 a span.menu-text {
+    color: #efefef;
+}
+li#menu-item-74 a span.menu-text:hover {
+    color: #efefef;
+}
+.portfolio-full .flexslider {
+    margin-bottom: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
